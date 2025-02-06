@@ -3,6 +3,7 @@
 *.gz 
 *.zip
 *.png
-*.jpg
+*.xml
 ._.DS_Store
 .DS_Store
+data/
