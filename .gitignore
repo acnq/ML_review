@@ -4,6 +4,7 @@
 *.zip
 *.png
 *.xml
+*.ftr
 ._.DS_Store
 .DS_Store
 data/
